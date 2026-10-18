@@ -12,6 +12,11 @@ export const LEGAL = {
   registry: "POR COMPLETAR (datos registrales, o \"No aplica\" si no hay sociedad)",
 } as const;
 
+// The LSSI requires these details: a production deploy (Vercel) fails while any is still a placeholder
+if (process.env.VERCEL_ENV === "production" && Object.values(LEGAL).some((value) => value.startsWith("POR COMPLETAR"))) {
+  throw new Error("Fill in LEGAL in src/lib/site.ts before publishing kubsei.com");
+}
+
 /** Replaces {key} placeholders in translated text. */
 export const fill = (text: string, values: Record<string, string | number> = {}) =>
   text.replace(/\{(\w+)\}/g, (match, key: string) =>
