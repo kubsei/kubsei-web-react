@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+/*
+ * Provisional brand tokens: the branding work only replaces these values.
+ * Text pairs keep WCAG AA contrast: ink/muted on surface and surface-alt, brand-contrast on brand.
+ */
+:root {
+  --brand: #4338ca;
+  --brand-contrast: #ffffff;
+  --brand-soft: #eef2ff;
+  --ink: #0b0b12;
+  --muted: #52525b;
+  --surface: #ffffff;
+  --surface-alt: #f6f6f8;
+  --line: #e4e4e7;
+}
+
+@theme inline {
+  --color-brand: var(--brand);
+  --color-brand-contrast: var(--brand-contrast);
+  --color-brand-soft: var(--brand-soft);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-surface: var(--surface);
+  --color-surface-alt: var(--surface-alt);
+  --color-line: var(--line);
+  --font-sans: var(--font-geist-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--surface);
+  color: var(--ink);
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+
+.animate-rise {
+  animation: rise 0.7s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .animate-rise { animation: none; }
+}

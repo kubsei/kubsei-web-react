@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "title": "Kubsei · Software para el progreso",
+    "description": "Kubsei crea herramientas de software para que sean un motor de progreso en los países en desarrollo. Nuestro primer producto es plaart, un editor visual con IA.",
+    "ogLocale": "es_ES"
+  },
+  "nav": {
+    "label": "Navegación principal",
+    "products": "Productos",
+    "mission": "Misión",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "skip": "Saltar al contenido"
+  },
+  "hero": {
+    "eyebrow": "Nuestra misión",
+    "title": "Software que impulsa el progreso",
+    "mission": "Hacer de las herramientas de software un elemento clave de progreso para los países en desarrollo.",
+    "ctaPrimary": "Conoce plaart",
+    "ctaSecondary": "Habla con nosotros"
+  },
+  "products": {
+    "title": "Productos",
+    "subtitle": "Herramientas útiles, accesibles desde cualquier navegador.",
+    "available": "Disponible",
+    "plaart": {
+      "description": "Editor visual 2D con dibujo asistido por IA. Boceta, organiza por capas y crea con pinceles naturales directamente en el navegador, sin instalar nada.",
+      "features": ["Dibujo asistido por IA", "Capas y pinceles naturales", "Tus proyectos guardados en la nube"],
+      "cta": "Abrir plaart"
+    }
+  },
+  "upcoming": {
+    "title": "Próximamente",
+    "subtitle": "Ideas que estamos explorando. Todavía no tienen fecha.",
+    "badge": "En exploración",
+    "items": [
+      {
+        "title": "Gestión para pequeños comercios",
+        "description": "Ventas e inventario que funcionan sin conexión y se sincronizan cuando vuelve la red."
+      },
+      {
+        "title": "Aprendizaje con IA",
+        "description": "Formación ligera, en idiomas locales y con bajo consumo de datos."
+      },
+      {
+        "title": "Finanzas para emprendedores",
+        "description": "Cuentas sencillas para microempresas, pensadas para los pagos móviles."
+      },
+      {
+        "title": "Asistente agrícola",
+        "description": "Precios, clima y consejos al alcance de un mensaje de WhatsApp o SMS."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Kubsei",
+    "paragraphs": [
+      "Kubsei nace de una convicción: el buen software multiplica lo que las personas pueden hacer, y debería llegar también a donde hoy apenas llega.",
+      "Diseñamos productos que funcionan con conexiones lentas, en dispositivos modestos y en el idioma de quien los usa. Empezamos por la creatividad con plaart y seguiremos con herramientas para el trabajo, el aprendizaje y el día a día."
+    ],
+    "values": [
+      { "title": "Accesible", "description": "Rápido en conexiones lentas y en cualquier dispositivo." },
+      { "title": "Útil", "description": "Resolvemos problemas reales antes que perseguir modas." },
+      { "title": "Cercano", "description": "Hecho en varios idiomas y con quienes lo usan." }
+    ]
+  },
+  "contact": {
+    "title": "Hablemos",
+    "text": "¿Quieres colaborar, invertir o probar nuestros productos antes que nadie? Escríbenos.",
+    "cta": "Escríbenos"
+  },
+  "footer": {
+    "rights": "© {year} Kubsei. Todos los derechos reservados.",
+    "legal": "Aviso legal",
+    "privacy": "Privacidad"
+  },
+  "legal": {
+    "updated": "Última actualización: {date}",
+    "date": "18 de octubre de 2026",
+    "backHome": "Volver al inicio",
+    "notice": {
+      "title": "Aviso legal",
+      "intro": "En cumplimiento de la Ley 34/2002, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI), se informa de los datos del titular de este sitio web.",
+      "sections": [
+        {
+          "title": "1. Titular",
+          "items": [
+            "Titular: {controller}",
+            "NIF/CIF: {taxId}",
+            "Domicilio: {address}",
+            "Email: {email}",
+            "Datos registrales: {registry}"
+          ]
+        },
+        {
+          "title": "2. Objeto",
+          "paragraphs": [
+            "kubsei.com es el sitio web informativo de Kubsei y de sus productos. Su uso es gratuito y no requiere registro."
+          ]
+        },
+        {
+          "title": "3. Propiedad intelectual e industrial",
+          "paragraphs": [
+            "Los contenidos de este sitio, así como las marcas, nombres y logotipos de Kubsei y plaart, pertenecen a su titular. No se permite su reproducción, distribución o transformación sin autorización expresa."
+          ]
+        },
+        {
+          "title": "4. Enlaces y responsabilidad",
+          "paragraphs": [
+            "Este sitio puede contener enlaces a otros sitios, incluidos los de nuestros productos. Ponemos el cuidado razonable en mantener la información actualizada, pero no respondemos de los daños que pudieran derivarse de su uso ni del contenido de sitios de terceros."
+          ]
+        },
+        {
+          "title": "5. Ley aplicable",
+          "paragraphs": [
+            "Este aviso se rige por la ley española. Si eres consumidor, conservas el derecho a acudir a los tribunales de tu lugar de residencia."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "intro": "Esta política explica qué datos personales se tratan cuando visitas kubsei.com. Nuestros productos tienen su propia política; la de plaart está en plaart.app/privacy.",
+      "sections": [
+        {
+          "title": "1. Responsable",
+          "paragraphs": [
+            "El responsable del tratamiento es {controller}. Puedes escribirnos a {email} para cualquier cuestión sobre privacidad."
+          ]
+        },
+        {
+          "title": "2. Qué datos tratamos",
+          "items": [
+            "Si nos escribes por email: tu dirección y lo que nos cuentes, solo para responderte.",
+            "Datos técnicos de la visita (dirección IP, navegador) que nuestro proveedor de alojamiento registra para servir la web y protegerla."
+          ],
+          "paragraphs": [
+            "Este sitio no tiene formularios, no pide registro y no usa cookies de analítica ni de publicidad."
+          ]
+        },
+        {
+          "title": "3. Base legal y conservación",
+          "paragraphs": [
+            "Los emails se tratan por nuestro interés legítimo en atender tu consulta y se conservan mientras dure la conversación y, como máximo, un año después. Los datos técnicos se tratan por interés legítimo en la seguridad del sitio y los conserva el proveedor de alojamiento durante un periodo breve."
+          ]
+        },
+        {
+          "title": "4. Proveedores",
+          "items": [
+            "Vercel: alojamiento de la web. Puede tratar datos fuera del Espacio Económico Europeo con las garantías del RGPD (Marco de Privacidad de Datos UE-EE. UU. o cláusulas contractuales tipo).",
+            "Cloudflare: gestión de los dominios y del correo."
+          ]
+        },
+        {
+          "title": "5. Tus derechos",
+          "paragraphs": [
+            "Puedes pedir acceso a tus datos, su rectificación o eliminación, oponerte a su tratamiento o limitarlo y solicitar su portabilidad escribiendo a {email}. Te responderemos en un plazo máximo de un mes.",
+            "Si consideras que no hemos atendido bien tu solicitud, puedes reclamar ante la Agencia Española de Protección de Datos (www.aepd.es)."
+          ]
+        }
+      ]
+    }
+  }
+}

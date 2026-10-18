@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "title": "Kubsei · Software for progress",
+    "description": "Kubsei builds software tools to be a driver of progress in developing countries. Our first product is plaart, an AI-assisted visual editor.",
+    "ogLocale": "en_US"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "products": "Products",
+    "mission": "Mission",
+    "contact": "Contact",
+    "language": "Language",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Our mission",
+    "title": "Software that drives progress",
+    "mission": "Making software tools a key driver of progress for developing countries.",
+    "ctaPrimary": "Discover plaart",
+    "ctaSecondary": "Talk to us"
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Useful tools, available from any browser.",
+    "available": "Available",
+    "plaart": {
+      "description": "A 2D visual editor with AI-assisted drawing. Sketch, organize in layers and create with natural brushes right in your browser, with nothing to install.",
+      "features": ["AI-assisted drawing", "Layers and natural brushes", "Your projects saved in the cloud"],
+      "cta": "Open plaart"
+    }
+  },
+  "upcoming": {
+    "title": "Coming next",
+    "subtitle": "Ideas we are exploring. No dates yet.",
+    "badge": "Exploring",
+    "items": [
+      {
+        "title": "Tools for small shops",
+        "description": "Sales and inventory that work offline and sync when the connection comes back."
+      },
+      {
+        "title": "AI-powered learning",
+        "description": "Lightweight training in local languages, with low data usage."
+      },
+      {
+        "title": "Finance for entrepreneurs",
+        "description": "Simple bookkeeping for micro-businesses, built around mobile payments."
+      },
+      {
+        "title": "Farming assistant",
+        "description": "Prices, weather and advice just a WhatsApp or SMS message away."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Kubsei",
+    "paragraphs": [
+      "Kubsei comes from a conviction: good software multiplies what people can do, and it should also reach the places it barely reaches today.",
+      "We design products that work on slow connections, on modest devices and in their users' own language. We start with creativity through plaart and will continue with tools for work, learning and everyday life."
+    ],
+    "values": [
+      { "title": "Accessible", "description": "Fast on slow connections and on any device." },
+      { "title": "Useful", "description": "We solve real problems instead of chasing trends." },
+      { "title": "Close", "description": "Built in many languages, with the people who use it." }
+    ]
+  },
+  "contact": {
+    "title": "Let's talk",
+    "text": "Want to collaborate, invest or try our products before anyone else? Write to us.",
+    "cta": "Write to us"
+  },
+  "footer": {
+    "rights": "© {year} Kubsei. All rights reserved.",
+    "legal": "Legal notice",
+    "privacy": "Privacy"
+  },
+  "legal": {
+    "updated": "Last updated: {date}",
+    "date": "October 18, 2026",
+    "backHome": "Back to home",
+    "notice": {
+      "title": "Legal notice",
+      "intro": "In compliance with Spanish Law 34/2002 on Information Society Services and Electronic Commerce (LSSI), these are the details of the owner of this website.",
+      "sections": [
+        {
+          "title": "1. Owner",
+          "items": [
+            "Owner: {controller}",
+            "Tax ID: {taxId}",
+            "Address: {address}",
+            "Email: {email}",
+            "Registry details: {registry}"
+          ]
+        },
+        {
+          "title": "2. Purpose",
+          "paragraphs": [
+            "kubsei.com is the informational website of Kubsei and its products. It is free to use and requires no registration."
+          ]
+        },
+        {
+          "title": "3. Intellectual and industrial property",
+          "paragraphs": [
+            "The content of this site, as well as the Kubsei and plaart trademarks, names and logos, belong to their owner. They may not be reproduced, distributed or modified without express permission."
+          ]
+        },
+        {
+          "title": "4. Links and liability",
+          "paragraphs": [
+            "This site may link to other sites, including those of our products. We take reasonable care to keep the information up to date, but we are not liable for any damage arising from its use or for the content of third-party sites."
+          ]
+        },
+        {
+          "title": "5. Governing law",
+          "paragraphs": [
+            "This notice is governed by Spanish law. If you are a consumer, you keep the right to go to the courts of your place of residence."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "This policy explains what personal data is processed when you visit kubsei.com. Our products have their own policies; plaart's is at plaart.app/privacy.",
+      "sections": [
+        {
+          "title": "1. Controller",
+          "paragraphs": [
+            "The data controller is {controller}. You can write to {email} with any privacy question."
+          ]
+        },
+        {
+          "title": "2. What data we process",
+          "items": [
+            "If you email us: your address and what you tell us, only to reply to you.",
+            "Technical data of your visit (IP address, browser) that our hosting provider logs to serve and protect the site."
+          ],
+          "paragraphs": [
+            "This site has no forms, requires no registration and uses no analytics or advertising cookies."
+          ]
+        },
+        {
+          "title": "3. Legal basis and retention",
+          "paragraphs": [
+            "Emails are processed under our legitimate interest in answering your request and kept for as long as the conversation lasts and at most one year after. Technical data is processed under a legitimate interest in the site's security and kept by the hosting provider for a short period."
+          ]
+        },
+        {
+          "title": "4. Providers",
+          "items": [
+            "Vercel: website hosting. It may process data outside the European Economic Area under GDPR safeguards (EU-U.S. Data Privacy Framework or Standard Contractual Clauses).",
+            "Cloudflare: domain and email management."
+          ]
+        },
+        {
+          "title": "5. Your rights",
+          "paragraphs": [
+            "You can ask to access, correct or delete your data, object to or restrict its processing, and request its portability by writing to {email}. We will reply within one month.",
+            "If you believe we have not handled your request properly, you can lodge a complaint with the Spanish Data Protection Agency (www.aepd.es) or your local supervisory authority."
+          ]
+        }
+      ]
+    }
+  }
+}
