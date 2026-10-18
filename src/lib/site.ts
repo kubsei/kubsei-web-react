@@ -6,10 +6,10 @@ export const SITE = {
 } as const;
 
 export const LEGAL = {
-  controller: "POR COMPLETAR (nombre o razón social)",
-  taxId: "POR COMPLETAR (NIF/CIF)",
-  address: "POR COMPLETAR (domicilio)",
-  registry: "POR COMPLETAR (datos registrales, o \"No aplica\" si no hay sociedad)",
+  controller: "Sixtus Nosike",
+  taxId: "Z0445929X",
+  address: "Calle Pureza 38, 30170 Mula (Murcia), España",
+  registry: "No aplica / Not applicable",
 } as const;
 
 // The LSSI requires these details: a production deploy (Vercel) fails while any is still a placeholder
